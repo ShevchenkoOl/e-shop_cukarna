@@ -1,0 +1,27 @@
+[{
+        "id": 0,
+        "name": "Harlekyn",
+        "cream": "vanilla-chocolate-cream",
+        "price": "500Kč"
+
+    },
+    {
+        "id": 1,
+        "name": "Tiramisu",
+        "cream": "coffee-cream",
+        "price": "600Kč"
+    },
+    {
+        "id": 2,
+        "name": "Kokoska",
+        "cream": "coconut-cream",
+        "price": "700Kč",
+        "image_url": "http://denikmalepozitkarky.cz/wp-content/uploads/IMG_2758-1140x760.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Garash",
+        "cream": "heavy-chocolate-cream",
+        "price": "800Kč"
+    }
+]
